@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Company>Dikeko</Company>
     <Description>一个简单的ORM 仅适用于SqlServer数据库</Description>
     <Copyright>Copyright © Dikeko  2020</Copyright>
