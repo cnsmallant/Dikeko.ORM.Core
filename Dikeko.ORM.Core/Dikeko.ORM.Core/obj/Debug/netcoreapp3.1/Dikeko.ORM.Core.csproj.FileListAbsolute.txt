@@ -1,0 +1,11 @@
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\bin\Debug\netcoreapp3.1\Dikeko.ORM.Core.deps.json
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\bin\Debug\netcoreapp3.1\Dikeko.ORM.Core.dll
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.csprojAssemblyReference.cache
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.AssemblyInfoInputs.cache
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.AssemblyInfo.cs
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\bin\Debug\netcoreapp3.1\Dikeko.ORM.Core.pdb
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.dll
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.pdb
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.csproj.CoreCompileInputs.cache
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.Properties.Resources.resources
+D:\Dikeko.ORM.Core\Dikeko.ORM.Core\Dikeko.ORM.Core\obj\Debug\netcoreapp3.1\Dikeko.ORM.Core.csproj.GenerateResource.cache
