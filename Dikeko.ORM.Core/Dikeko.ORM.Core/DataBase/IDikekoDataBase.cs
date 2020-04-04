@@ -104,7 +104,7 @@ namespace Dikeko.ORM.Core.DataBase
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns></returns>
-        T SingleOrDefault<T>();
+        T SingleOrDefault<T>(T t);
 
 
         /// <summary>

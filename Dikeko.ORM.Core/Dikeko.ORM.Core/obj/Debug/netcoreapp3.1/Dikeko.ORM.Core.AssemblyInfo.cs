@@ -15,11 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Dikeko  2020")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("一个简单的ORM 仅适用于SqlServer数据库")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dikeko.ORM.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dikeko.ORM.Core")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.4")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

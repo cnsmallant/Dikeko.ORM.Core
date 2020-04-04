@@ -192,9 +192,8 @@ namespace Dikeko.ORM.Core.DataBase
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns></returns>
-        public T SingleOrDefault<T>()
+        public T SingleOrDefault<T>(T t)
         {
-            T t = Activator.CreateInstance<T>();
             string sql = DataBaseAuxiliary.Current.SelectSQL(t, SqlQueryTypeEnum.SingleOrDefault);
             return new DataBaseAuxiliary(connectionString).DataReaderSingle(t, sql);
         }

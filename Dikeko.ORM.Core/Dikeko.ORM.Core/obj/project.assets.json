@@ -1722,7 +1722,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "restore": {
       "projectUniqueName": "D:\\Dikeko.ORM.Core\\Dikeko.ORM.Core\\Dikeko.ORM.Core\\Dikeko.ORM.Core.csproj",
       "projectName": "Dikeko.ORM.Core",
