@@ -162,7 +162,7 @@ namespace Dikeko.ORM.Core
         public dynamic GetUserPage()
         {
             string sql = "SELECT * FROM UserInfo";
-            var list = db.PageOrDefault<Model.UserInfo>(1, 10, sql);
+            var list = db.PageOrDefault<Model.UserInfo>(1, 10, sql,1);
             return JsonConvert.SerializeObject(list);//转换成JSON返回
         }
     }
