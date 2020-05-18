@@ -4,16 +4,17 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Company>Dikeko</Company>
-    <Description>一个简单的ORM 仅适用于SqlServer数据库</Description>
+    <Description>Dikeko.ORM.Core是一个简单的.NET轻量级的ORM，目前仅支持SqlServer数据库。.NET CORE版需要手动添加实体类，或者下载源码获取T4模版。如果遇到不明白的或者发现BUG请加入QQ群：Java .Net Go PHP UI群：574879752 直接@群主
+</Description>
     <Copyright>Copyright © Dikeko  2020</Copyright>
     <Authors>Dikeko</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.0.4</AssemblyVersion>
-    <FileVersion>1.0.4</FileVersion>
+    <AssemblyVersion>1.0.5</AssemblyVersion>
+    <FileVersion>1.0.5</FileVersion>
     <PackageIcon>dikeko.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Dikeko.ORM.Core  Dikeko.ORM Dikeko Dikeko.ORM.Core</PackageTags>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
   </PropertyGroup>
 
   <ItemGroup>

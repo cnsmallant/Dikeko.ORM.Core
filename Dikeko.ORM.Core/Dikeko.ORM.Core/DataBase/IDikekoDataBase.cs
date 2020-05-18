@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static Dikeko.ORM.Core.DataBase.Enum.DataBaseEnum;
 
 namespace Dikeko.ORM.Core.DataBase
 {
@@ -166,9 +167,10 @@ namespace Dikeko.ORM.Core.DataBase
         /// <param name="CurrentPage">当前页</param>
         /// <param name="PageSize">每页条数</param>
         /// <param name="sql">sql语句</param>
+        /// <param name="sqlVersion">sql版本</param>
         /// <param name="args">参数</param>
         /// <returns></returns>
-        Page<T> PageOrDefault<T>(int CurrentPage, int PageSize, string sql, params object[] args);
+        Page<T> PageOrDefault<T>(int CurrentPage, int PageSize, string sql, SqlVersion sqlVersion, params object[] args);
 
 
         /// <summary>
