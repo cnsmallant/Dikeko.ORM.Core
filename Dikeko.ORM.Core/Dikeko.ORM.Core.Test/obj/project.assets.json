@@ -400,7 +400,7 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "Dikeko.ORM.Core/1.0.5": {
+      "Dikeko.ORM.Core/1.0.7": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1764,7 +1764,7 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Dikeko.ORM.Core/1.0.5": {
+    "Dikeko.ORM.Core/1.0.7": {
       "type": "project",
       "path": "../Dikeko.ORM.Core/Dikeko.ORM.Core.csproj",
       "msbuildProject": "../Dikeko.ORM.Core/Dikeko.ORM.Core.csproj"

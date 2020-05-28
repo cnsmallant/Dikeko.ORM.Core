@@ -6,7 +6,7 @@ namespace Dikeko.ORM.Core.Test
     {
         static void Main(string[] args)
         {
-            var result = UserInfo.Current.GetUserById();
+            var result = UserInfo.Current.GetUserPage();
 
             Console.WriteLine(result);
         }

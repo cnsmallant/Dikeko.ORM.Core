@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Dikeko.ORM.Core/1.0.5": {
+      "Dikeko.ORM.Core/1.0.6": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "3.1.3",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.3",
@@ -286,7 +286,7 @@
     }
   },
   "libraries": {
-    "Dikeko.ORM.Core/1.0.5": {
+    "Dikeko.ORM.Core/1.0.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
