@@ -9,17 +9,23 @@
     <Copyright>Copyright © Dikeko  2020</Copyright>
     <Authors>Dikeko</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.0.7</AssemblyVersion>
-    <FileVersion>1.0.7</FileVersion>
+    <AssemblyVersion>1.0.8</AssemblyVersion>
+    <FileVersion>1.0.8</FileVersion>
     <PackageIcon>dikeko.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Dikeko.ORM.Core  Dikeko.ORM Dikeko Dikeko.ORM.Core</PackageTags>
-    <Version>1.0.7</Version>
+    <Version>1.0.8</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="Dikeko.ORM.Core.1.0.1.nupkg" />
     <None Remove="Dikeko.ORM.Core.1.0.2.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.3.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.4.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.5.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.6.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.7.nupkg" />
+    <None Remove="Dikeko.ORM.Core.1.0.8.nupkg" />
     <None Remove="Dikeko.ORM.Core.nuspec" />
     <None Remove="nuget.exe" />
   </ItemGroup>

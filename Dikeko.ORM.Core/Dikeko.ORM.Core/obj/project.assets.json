@@ -1722,7 +1722,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "restore": {
       "projectUniqueName": "D:\\Dikeko.ORM.Core\\Dikeko.ORM.Core\\Dikeko.ORM.Core\\Dikeko.ORM.Core.csproj",
       "projectName": "Dikeko.ORM.Core",
@@ -1798,7 +1798,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Dikeko.ORM.Core.Test/1.0.0": {
         "dependencies": {
-          "Dikeko.ORM.Core": "1.0.6",
+          "Dikeko.ORM.Core": "1.0.8",
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
@@ -287,7 +287,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "Dikeko.ORM.Core/1.0.6": {
+      "Dikeko.ORM.Core/1.0.8": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "3.1.3",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.3",
@@ -532,7 +532,7 @@
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
-    "Dikeko.ORM.Core/1.0.6": {
+    "Dikeko.ORM.Core/1.0.8": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

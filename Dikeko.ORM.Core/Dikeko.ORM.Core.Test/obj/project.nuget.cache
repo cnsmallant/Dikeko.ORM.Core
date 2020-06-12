@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dASoYF4TuUgl88kOXjw2Nv9/QmYWhyrxKXWRKJo9vq3Fd1rbqxE5lodsuZypCg/kZ/ZsRBjcaxlnntm4aiVsJg==",
+  "dgSpecHash": "FTMIV5qKVMEqLnJJp4CxwXumm2Y99O7/hUr/a03Je0WneH+ozemi0NHR8b7izVyjvtK6C6TagvVHorhSv2WHVg==",
   "success": true,
   "projectFilePath": "D:\\Dikeko.ORM.Core\\Dikeko.ORM.Core\\Dikeko.ORM.Core.Test\\Dikeko.ORM.Core.Test.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,8 @@
     "C:\\Users\\91918\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\91918\\.nuget\\packages\\dikeko.orm.core\\1.0.8\\dikeko.orm.core.1.0.8.nupkg.sha512"
   ],
   "logs": []
 }
